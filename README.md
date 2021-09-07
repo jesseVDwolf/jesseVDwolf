@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jesseVDwolf/jesseVDwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jesse van der Wolf. I use this github account to upload fun hobby projects
+I'm working on. Do not expect everything on this account to be production ready 😄.
 
-Here are some ideas to get you started:
+My interests are mostly in data related engineering. In this repository you're
+likely to find the following tools used:
+ * Docker
+ * Python
+ * C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have an account where I upload all my study related projects which have tests
+and are a little more robust. Check it out if you want to see what I'm currently studying:
+https://github.com/42JesseW
+
