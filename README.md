@@ -11,5 +11,5 @@ likely to find the following tools used:
 
 I also have an account where I upload all my study related projects which have tests
 and are a little more robust. Check it out if you want to see what I'm currently studying:
-https://github.com/42JesseW
+https://github.com/42JesseW -> @42JesseW
 
