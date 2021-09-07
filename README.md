@@ -4,10 +4,11 @@ My name is Jesse van der Wolf. I use this github account to upload fun hobby pro
 I'm working on. Do not expect everything on this account to be production ready 😄.
 
 My interests are mostly in data related engineering. In this repository you're
-likely to find the following tools used:
+likely to find the following tools/technolgy used:
  * Docker
  * Python
  * C/C++
+ * SQL/NoSQL
 
 I also have an account where I upload all my study related projects which have tests
 and are a little more robust. Check it out if you want to see what I'm currently studying:
